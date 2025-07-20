@@ -580,7 +580,7 @@ def run_pump_detection():
         st.warning(f"No pump candidates detected with {detection_mode} settings. Try adjusting the detection mode or parameters.")
     
     if auto_refresh:
-        time.sleep(60)
+        time.sleep(120)
         st.rerun()
 
 if __name__ == "__main__":
