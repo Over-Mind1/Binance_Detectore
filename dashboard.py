@@ -405,7 +405,7 @@ def run_pump_detection():
     
     max_pairs = st.sidebar.slider("Max Pairs to Analyze", 50, 500, 200, 50)
     
-    auto_refresh = st.sidebar.checkbox("Auto Refresh (60s)", value=False)
+    auto_refresh = st.sidebar.checkbox("Auto Refresh (120s)", value=False)
     
     # Main Dashboard
     st.title("🚨 Advanced Binance Pump Detection System")
