@@ -61,7 +61,7 @@ class PumpCandidate:
     liquidity_score: float = 0.0
     order_book_imbalance: float = 0.0
     volatility_squeeze: bool = False
-    timestamp: datetime.datetime = None
+    timestamp: datetime.datetime = datetime.datetime.now()
 
 class AdvancedPumpDetector:
     def __init__(self):
