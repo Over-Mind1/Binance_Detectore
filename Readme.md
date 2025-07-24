@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-streamlit run pump_detector.py
+streamlit run dashboard.py
 ```
 
 ## Usage 🖥️
