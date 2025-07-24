@@ -24,6 +24,8 @@ An advanced detection system for identifying potential cryptocurrency pump event
   - Auto-refresh capability
 - Parallel processing for efficient analysis
 - 2 models for scalping with strong arch to ensure the signal 
+-data collect from binance api
+-specific model for each coin
 # Installation ⚙️
 
 1. Clone the repository:
