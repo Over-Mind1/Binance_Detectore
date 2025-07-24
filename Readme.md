@@ -23,8 +23,8 @@ An advanced detection system for identifying potential cryptocurrency pump event
   - Price charts
   - Auto-refresh capability
 - Parallel processing for efficient analysis
-
-## Installation ⚙️
+- 2 models for scalping with strong arch to ensure the signal 
+# Installation ⚙️
 
 1. Clone the repository:
 ```bash
